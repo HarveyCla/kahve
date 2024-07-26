@@ -6,3 +6,4 @@
 6.aroma eklendi.
 7.buz eklendi.
 8.Süt Ekle
+9.biraz daha süt ekle
