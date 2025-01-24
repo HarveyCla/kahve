@@ -5,3 +5,4 @@
 5.hatasız kul olmaz
 6.vscode a gecildi
 7.yeni kodlar
+8.h01 branch ina geçildi
