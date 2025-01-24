@@ -4,4 +4,4 @@
 4.krema
 5.hatasız kul olmaz
 6.vscode a gecildi
-
+7.yeni kodlar
